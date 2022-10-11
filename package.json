@@ -1,0 +1,31 @@
+{
+  "name": "teamgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacksonwolfd20/TeamGen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.1",
+    "sequelize": "^6.3.5",
+    "jest": "^24.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Jacksonwolfd20/TeamGen/issues"
+  },
+  "homepage": "https://github.com/Jacksonwolfd20/TeamGen#readme"
+}
