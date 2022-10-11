@@ -22,7 +22,8 @@
     "express": "^4.17.1",
     "mysql2": "^2.2.1",
     "sequelize": "^6.3.5",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "inquirer": "8.2.4"
   },
   "bugs": {
     "url": "https://github.com/Jacksonwolfd20/TeamGen/issues"
